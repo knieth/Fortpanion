@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fortpanion/static/css/main.a6081261.chunk.css",
+    "main.js": "/Fortpanion/static/js/main.db85f77d.chunk.js",
+    "main.js.map": "/Fortpanion/static/js/main.db85f77d.chunk.js.map",
+    "runtime~main.js": "/Fortpanion/static/js/runtime~main.7177db7b.js",
+    "runtime~main.js.map": "/Fortpanion/static/js/runtime~main.7177db7b.js.map",
+    "static/js/2.d44a61f9.chunk.js": "/Fortpanion/static/js/2.d44a61f9.chunk.js",
+    "static/js/2.d44a61f9.chunk.js.map": "/Fortpanion/static/js/2.d44a61f9.chunk.js.map",
+    "index.html": "/Fortpanion/index.html",
+    "precache-manifest.fb4f72ab0a2aa03b7c0d553238e697c4.js": "/Fortpanion/precache-manifest.fb4f72ab0a2aa03b7c0d553238e697c4.js",
+    "service-worker.js": "/Fortpanion/service-worker.js",
+    "static/css/main.a6081261.chunk.css.map": "/Fortpanion/static/css/main.a6081261.chunk.css.map"
+  }
+}
