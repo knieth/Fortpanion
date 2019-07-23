@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Fortpanion/precache-manifest.fb4f72ab0a2aa03b7c0d553238e697c4.js"
+  "/Fortpanion/precache-manifest.95eeabbc3179a2f56b3fb7fcf6353505.js"
 );
 
 self.addEventListener('message', (event) => {
